@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/cpu.h
+ram.h
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/ram.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/disk.h
+fstream
+-
+ram.h
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/ram.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/gpu.h
+fstream
+-
+ram.h
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/ram.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/kbd.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/ram.h
+kbd.h
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/kbd.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/2/scr/main.cpp
+iostream
+-
+../include/cpu.h
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/cpu.h
+../include/disk.h
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/disk.h
+../include/gpu.h
+C:/Users/User/OneDrive/Desktop/C++/25/2/include/gpu.h
+

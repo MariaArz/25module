@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/check.h
+vector
+-
+
+C:/Users/User/OneDrive/Desktop/C++/25/1/include/hemostat.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/1/include/scalpel.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/1/include/suture.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/1/include/tweezers.h
+
+C:/Users/User/OneDrive/Desktop/C++/25/1/scr/main.cpp
+iostream
+-
+../include/scalpel.h
+C:/Users/User/OneDrive/Desktop/C++/25/1/include/scalpel.h
+../include/hemostat.h
+C:/Users/User/OneDrive/Desktop/C++/25/1/include/hemostat.h
+../include/tweezers.h
+C:/Users/User/OneDrive/Desktop/C++/25/1/include/tweezers.h
+../include/suture.h
+C:/Users/User/OneDrive/Desktop/C++/25/1/include/suture.h
+check.h
+C:/Users/User/OneDrive/Desktop/C++/25/1/scr/check.h
+

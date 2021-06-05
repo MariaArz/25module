@@ -1,0 +1,5 @@
+C:/Users/User/OneDrive/Desktop/C++/25/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Desktop/C++/25/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/OneDrive/Desktop/C++/25/1/cmake-build-debug/scr/CMakeFiles/1.dir
+C:/Users/User/OneDrive/Desktop/C++/25/1/cmake-build-debug/scr/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Desktop/C++/25/1/cmake-build-debug/scr/CMakeFiles/rebuild_cache.dir
