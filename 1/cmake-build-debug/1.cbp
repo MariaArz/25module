@@ -85,16 +85,7 @@
 		<Unit filename="C:/Users/User/OneDrive/Desktop/C++/25/1/include/check.h">
 			<Option target="1"/>
 		</Unit>
-		<Unit filename="C:/Users/User/OneDrive/Desktop/C++/25/1/include/hemostat.h">
-			<Option target="1"/>
-		</Unit>
-		<Unit filename="C:/Users/User/OneDrive/Desktop/C++/25/1/include/scalpel.h">
-			<Option target="1"/>
-		</Unit>
-		<Unit filename="C:/Users/User/OneDrive/Desktop/C++/25/1/include/suture.h">
-			<Option target="1"/>
-		</Unit>
-		<Unit filename="C:/Users/User/OneDrive/Desktop/C++/25/1/include/tweezers.h">
+		<Unit filename="C:/Users/User/OneDrive/Desktop/C++/25/1/include/operation.h">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="C:/Users/User/OneDrive/Desktop/C++/25/1/scr/main.cpp">

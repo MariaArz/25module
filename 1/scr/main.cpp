@@ -1,13 +1,12 @@
 #include <iostream>
 
-#include "../include/scalpel.h"
-#include "../include/hemostat.h"
-#include "../include/tweezers.h"
-#include "../include/suture.h"
+#include "operation.h"
 #include "check.h"
 
 
 int main() {
+    coord O;
+    std::vector<coord> operation;
     std::string command;
     std::cout<<"Start operation"<<std::endl;
     std::cin>>command;
@@ -38,7 +37,7 @@ int main() {
             else if(command=="suture"){
                 std::cout<<"Input coordinate"<<std::endl;
                 std::cin>>O.x>>O.y;
-                if (check(O)){
+                if (check(O, operation)){
                     suture(O.x,O.y);
                     break;
                 }

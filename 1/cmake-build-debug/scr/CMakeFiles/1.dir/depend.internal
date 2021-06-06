@@ -3,8 +3,5 @@
 
 scr/CMakeFiles/1.dir/main.cpp.obj
  ../include/check.h
- C:/Users/User/OneDrive/Desktop/C++/25/1/include/hemostat.h
- C:/Users/User/OneDrive/Desktop/C++/25/1/include/scalpel.h
- C:/Users/User/OneDrive/Desktop/C++/25/1/include/suture.h
- C:/Users/User/OneDrive/Desktop/C++/25/1/include/tweezers.h
+ ../include/operation.h
  C:/Users/User/OneDrive/Desktop/C++/25/1/scr/main.cpp
